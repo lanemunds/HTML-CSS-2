@@ -1,0 +1,91 @@
+
+
+#daddy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#shapes{
+    height: 200px;
+    border: 5px solid black;
+    width: 70%;
+    position: relative;
+    left: 300px;
+    
+}
+
+#purple{
+    background-color: purple;
+    height: 125px;
+    width: 40px;
+    position: relative;
+    left: 10px;
+    top: 60px;
+
+}
+
+#green{
+    height: 175px;
+    width: 400px;
+    background-color: green;
+    position: relative;
+    left: 100px;
+    bottom: 113px;
+}
+#blue{
+    height: 190px;
+    width: 190px;
+    border-radius: 100%;
+    background-color: blue;
+    position: absolute;
+    left: 600px;
+    top: 2px;
+}
+
+#spacer{
+    height: 20px;
+}
+
+#solid{
+    height: 200px;
+    border: 5px dotted black;
+    height: 200px;
+    width: 70%;
+    position: relative;
+    left: 300px;
+    
+}
+
+#rectangle{
+    height: 150px;
+    width: 75%;
+    position: relative;
+    background-color: antiquewhite;
+    left: 120px;
+    top: 20px;
+    box-shadow: 10px 10px 8px black;
+}
+#hello{
+    border: 4px solid gainsboro;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   box-shadow: 2px 2px 2px gray;
+    
+}
+
+#hello>p{
+    font-size:30pt;
+    color: purple;
+    font-weight: 800;
+    letter-spacing: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 90px;
+    text-align: center;
+    
+
+}

@@ -1,0 +1,32 @@
+#head{
+    background-color: black;
+    height: 150px;
+}
+body{
+    background-color: gray;
+}
+
+
+#footdiv{
+    display: flex;
+    justify-content: center;
+}
+
+
+footer{
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 79.25%;
+    height: 100px;
+    
+}
+
+#main{
+    height: 750px;
+    width: 1515px;
+    position: relative;
+    left:195px ;
+    
+    background-color: gainsboro;
+}
